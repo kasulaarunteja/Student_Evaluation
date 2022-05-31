@@ -1,0 +1,16 @@
+{
+  "name": "day-7-assignment-mvc",
+  "version": "1.0.0",
+  "description": "This is the project base on mvc",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "author": "Arun teja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.15"
+  }
+}
